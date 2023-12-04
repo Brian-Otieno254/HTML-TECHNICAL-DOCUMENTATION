@@ -1,3 +1,4 @@
+
 <a name="readme-top"></a>
 
 <!--
@@ -29,7 +30,7 @@ For more information on the importance of a professional README for your reposit
 -->
 
 <div align="center">
-  <!-- You are encouraged to replace this logo with your own! Otherwise you can also remove it. --
+  <!-- You are encouraged to replace this logo with your own! Otherwise you can also remove it. -->
   <br/>
 
   <h3><b>HTML-TECHNICAL-DOCUMENTATION</b></h3>
