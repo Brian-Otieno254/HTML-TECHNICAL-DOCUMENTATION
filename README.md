@@ -100,9 +100,8 @@ This projects entails the essential basics of html that are more important for a
 
 > Describe between 1-3 key features of the application.
 
-- **Adding Icons**
-- **Styling**
-- 
+- **A document with the basics of HTML**
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -138,7 +137,7 @@ Example command:
 ### Setup
 
 Clone this repository to your desired folder:
-git clone 
+git clone https://github.com/Brian-Otieno254/HTML-TECHNICAL-DOCUMENTATION.git
 <!--
 Example commands:
 
@@ -151,7 +150,7 @@ Example commands:
 ### Install
 
 Install this project with:
-
+Not for installing
 <!--
 Example command:
 
@@ -175,7 +174,7 @@ Example command:
 
 ### Run tests
 
-To run tests, run the following command: Live Server
+To run tests, run the following command: Live Server 5
 
 <!--
 Example command:
@@ -188,7 +187,7 @@ Example command:
 ### Deployment
 
 You can deploy this project using:
-
+Not for deployment
 <!--
 Example:
 
@@ -207,9 +206,9 @@ Example:
 
 👤 **Author1**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
+- GitHub: [@Brian-Otieno254](https://github.com/Brian-Otieno254)
 - Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/brian-otieno-4679272a2?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BTyxAI7hHTB%2BXK0paMNIJgQ%3D%3D)
 
 👤 **Author2**
 
@@ -225,9 +224,8 @@ Example:
 
 > Describe 1 - 3 features you will add to the project.
 
-- [ ] **[new_feature_1]**
-- [ ] **[new_feature_2]**
-- [ ] **[new_feature_3]**
+- [ ] **Adding Icons**
+- [ ] **Styling**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -247,7 +245,7 @@ Feel free to check the [issues page](../../issues/).
 
 > Write a message to encourage readers to support your project
 
-If you like this project...
+If you like this project drop your coment.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -257,7 +255,7 @@ If you like this project...
 
 > Give credit to everyone who inspired your codebase.
 
-I would like to thank...
+I would like to thank all for the support shown.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
