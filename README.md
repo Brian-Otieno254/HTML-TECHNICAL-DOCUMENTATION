@@ -76,7 +76,7 @@ This projects entails the essential basics of html that are more important for a
 <details>
   <summary>Client</summary>
   <ul>
-    <li><HTML</li>
+    <li>HTML</li>
   </ul>
 </details>
 
